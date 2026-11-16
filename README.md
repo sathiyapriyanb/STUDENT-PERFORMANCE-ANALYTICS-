@@ -1,3 +1,5 @@
 ## 📄 Project Report
 
-[View / Download Project Report](./Students%20Performance%20Data%20Visualization%20Analysis%20Report.docx)
+📘 **Student Performance Graph Analysis**
+
+[⬇️ View / Download Project Report (PDF)](./Students_Performance_Graph_Analysis_Report.pdf)
